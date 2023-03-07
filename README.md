@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate developer from Turkey.</h3>
 
-💬 Ask me about **UI/UX design and Android Automation**
+💬 Ask me about **UI/UX design and Automation Programs**
 
 📫 How to reach me **magma017@gmail.com**
 
